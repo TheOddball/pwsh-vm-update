@@ -9,7 +9,9 @@
 4: Change the server hostnames in update.ps1
 
 ```
-        -h: Show this help
-        -p NAME: Update a specific Proxmox server
-        -s NAME: Update a specific server
+    -h: Show this help
+    -p NAME: Update a specific Proxmox server
+    -s NAME: Update a specific server
 ```
+
+Note: This repo is really just a backup for me, but feel free to use it.
